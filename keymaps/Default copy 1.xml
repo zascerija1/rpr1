@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="IntroduceVariable" />
+</keymap>
