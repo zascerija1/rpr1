@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab39b49c-4990-4a02-970d-4daf0833957f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../_windows/git.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/keymap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../keymaps/Default copy 1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../keymaps/Default copy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project.default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="ab39b49c-4990-4a02-970d-4daf0833957f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +49,7 @@
     <session id="-1245560886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -91,7 +79,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Predmet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="73">
               <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
             </state>
           </provider>
@@ -161,7 +149,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539815428770" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -207,12 +195,12 @@
       <workItem from="1539812169647" duration="3237000" />
       <workItem from="1539850059784" duration="715000" />
       <workItem from="1539850807613" duration="1653000" />
-      <workItem from="1539852893958" duration="34000" />
+      <workItem from="1539852893958" duration="397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6536000" />
+    <option name="totallyTimeSpent" value="6899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -226,13 +214,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.61985815" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.61985815" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.5475177" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
@@ -301,7 +289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Predmet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="73">
           <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
         </state>
       </provider>
