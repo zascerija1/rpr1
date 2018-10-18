@@ -8,5 +8,6 @@ public class Program {
 
 	Student s2=new Student("Drugi", "Drugic", 1494);
         p.dodajStudenta(s).dodajStudenta(s2).ispisi();
+        p.izbrisiStudenta(s).ispisi();
     }
 }
