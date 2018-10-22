@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab39b49c-4990-4a02-970d-4daf0833957f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/PredmetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/keymap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../keymaps/Default copy.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/rpr-t1-z4/ba/unsa/etf/rpr/Predmet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rpr-t1-z4/ba/unsa/etf/rpr/Predmet.class" afterDir="false" />
@@ -120,7 +111,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/ba/unsa/etf/rpr/PredmetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="102">
               <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -229,7 +220,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540166485807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540166849842" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="D:/3. semestar/Vedranovi zadaci rpr" />
@@ -326,26 +317,11 @@
       <workItem from="1539884039923" duration="282000" />
       <workItem from="1540134913552" duration="24000" />
       <workItem from="1540138578970" duration="6658000" />
-      <workItem from="1540165860480" duration="565000" />
+      <workItem from="1540165860480" duration="982000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PredmetTest - 2018.10.21 at 20h 00m 10s.xml">
-      <configuration name="PredmetTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PredmetTest - 2018.10.21 at 20h 01m 07s.xml">
-      <configuration name="PredmetTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PredmetTest - 2018.10.21 at 20h 11m 13s.xml">
-      <configuration name="PredmetTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PredmetTest - 2018.10.21 at 20h 11m 58s.xml">
-      <configuration name="PredmetTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PredmetTest - 2018.10.21 at 20h 16m 20s.xml">
-      <configuration name="PredmetTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PredmetTest - 2018.10.21 at 20h 33m 23s.xml">
       <configuration name="PredmetTest" configurationId="JUnit" />
     </history-entry>
@@ -361,9 +337,24 @@
     <history-entry file="PredmetTest - 2018.10.21 at 20h 35m 20s.xml">
       <configuration name="PredmetTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PredmetTest - 2018.10.22 at 01h 58m 00s.xml">
+      <configuration name="PredmetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PredmetTest - 2018.10.22 at 01h 58m 20s.xml">
+      <configuration name="PredmetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2018.10.22 at 01h 58m 27s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2018.10.22 at 01h 58m 42s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PredmetTest - 2018.10.22 at 01h 58m 51s.xml">
+      <configuration name="PredmetTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15234000" />
+    <option name="totallyTimeSpent" value="15651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -509,7 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/ba/unsa/etf/rpr/PredmetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="102">
           <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
