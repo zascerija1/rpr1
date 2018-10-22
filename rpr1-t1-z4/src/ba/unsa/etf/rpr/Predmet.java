@@ -56,7 +56,7 @@ return this;
 }
 public void ispisi(){
         for(int i=0;i<velicina;i++){
-            System.out.println(i+". "+ niz[i]);
+            System.out.println(i+1+". "+ niz[i]);
         }
 }
 
